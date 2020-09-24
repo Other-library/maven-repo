@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 24 20:10:06 CST 2020
+@default-111997-release-ntstSk-https\://repo.rdc.aliyun.com/repository/111997-release-ntstSk/.lastUpdated=1600948429606
+https\://repo.maven.apache.org/maven2/.lastUpdated=1600948429886
+https\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/Other-library/maven-repo/master/releases/.error=
+https\://repo.rdc.aliyun.com/repository/111997-release-ntstSk/.error=Could not transfer artifact com.dingding.talk\:dingding\:pom\:1.0 from/to 111997-release-ntstSk (https\://repo.rdc.aliyun.com/repository/111997-release-ntstSk)\: Authentication failed for https\://repo.rdc.aliyun.com/repository/111997-release-ntstSk/com/dingding/talk/dingding/1.0/dingding-1.0.pom 401 Unauthorized
+https\://raw.github.com/Other-library/maven-repo/master/releases/.lastUpdated=1600949406793
